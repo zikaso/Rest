@@ -6,7 +6,7 @@ public class Comment {
 	
 
 	private long id;
-    private String message;
+    private String message ="cimmite ";
     private Date created;
     private String author;
     
